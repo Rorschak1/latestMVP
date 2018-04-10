@@ -29,18 +29,20 @@ public class MVPloginTest {
         mPassword=mvpLoginActivity.findViewById(R.id.layout_password);
     }
 
+/*
     @Test
     public void shouldNotBeNull() throws Exception {
         assertNotNull( mEmail );
         assertNotNull( mPassword );
     }
+*/
 
-    @Test
+/*    @Test
     public void checkEmailLength() throws Exception {
         mEmail.setText("mola");
         mPassword.setText( "som" );
 
-    }
+    }*/
 
 
 }
